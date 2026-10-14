@@ -100,7 +100,7 @@
 
   // --- icone del task manager nel pannello ---
   const TASKS = [
-    'img/pannelo/dolphin.svg',
+    'img/pannello/dolphin.svg',
     'img/pannello/konsle.svg',
     'img/pannello/browser.png',
   ];

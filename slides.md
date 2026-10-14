@@ -193,7 +193,7 @@ Per una botta di culo, la conferenza annuale di KDE dopo la mia quarta liceo si 
 
 ---
 
-Il primo talk della prima giornata: dopo votazione di tutta la comunità, annucio dei Goal scelti!
+Il primo talk della prima giornata: dopo votazione di tutta la comunità, annuncio dei Goal scelti!
 --
 Spoiler: HO VINTO!
 ![Akademy 2019: io (a destra) e Jonathan Riddell. Foto: dot.kde.org](img/storia/akademy2019-goals-niccolo-and-jonathan-riddell.jpg)

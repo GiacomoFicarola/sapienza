@@ -144,7 +144,7 @@ Note: era la D17352 su Calligra Sheets, 4â€“27 dic 2018. Review di aspotashev: Â
 <!-- NUOVO -->
 {.oss}
 ### Intanto, nel mondo open source
-Come lavorano insieme migliaia di persone che non si sono mai visite:
+Come lavorano insieme migliaia di persone che non si sono mai viste:
 - invent.kde.org: il codice e le code review
 - bugs.kde.org: i bug
 - Matrix: le chat (dove si passa la vita)

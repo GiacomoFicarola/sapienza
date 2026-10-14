@@ -193,7 +193,7 @@ Per una botta di culo, la conferenza annuale di KDE dopo la mia quarta liceo si 
 
 ---
 
-Il primo talk della prima giornata: dopo votazione di tutta la comunità, annuncio dei Goal scelti!
+Il primo talk della prima giornata: dopo votazione di tutta la comunità, annucio dei Goal scelti!
 --
 Spoiler: HO VINTO!
 ![Akademy 2019: io (a destra) e Jonathan Riddell. Foto: dot.kde.org](img/storia/akademy2019-goals-niccolo-and-jonathan-riddell.jpg)
@@ -239,7 +239,7 @@ Chi comanda in KDE?
 --
 Nessuno
 --
-Decide chi fa il lavoro: le idee si discutono, il codice passa in review, si va avanti per consenzo
+Decide chi fa il lavoro: le idee si discutono, il codice passa in review, si va avanti per consenso
 (i Goal sono l'esempio perfetto: chiunque ne propone uno, vota la comunità. Anche se sei un liceale in spiaggia)
 ![](img/meme/meme-chi-comanda.jpg)
 

@@ -193,14 +193,14 @@ Per una botta di culo, la conferenza annuale di KDE dopo la mia quarta liceo si 
 
 ---
 
-Il primo talk della prima giornata: dopo votazione di tutta la comunità, annucio dei Goal scelti!
+Il primo talk della prima giornata: dopo votazione di tutta la comunità, annuncio dei Goal scelti!
 --
 Spoiler: HO VINTO!
 ![Akademy 2019: io (a destra) e Jonathan Riddell. Foto: dot.kde.org](img/storia/akademy2019-goals-niccolo-and-jonathan-riddell.jpg)
 
 ---
 
-La presidente di KDE, Lydia, mi ha porposto di fare colazione assieme per parlare del mio Goal.
+La presidente di KDE, Lydia, mi ha proposto di fare colazione assieme per parlare del mio Goal.
 --
 La sera ho chiamato i miei per dirgli che avrei fatto colazione con la PRESIDENTE di KDE alla faccia loro!!
 ![Lydia Pintscher. Foto: Wikimedia Commons, CC BY-SA 3.0](img/storia/lydia-pintscher-portrait.jpg)
@@ -220,7 +220,7 @@ Invece aveva detto BIRDS OF A FEATHER
 
 <!-- NUOVO -->
 ### La prova
-![Wiki di Akademy 2019: lunedì 9 setembre, 16:30](img/storia/akademy2019-wiki-bof-monday-goals-session.png)
+![Wiki di Akademy 2019: lunedì 9 settembre, 16:30](img/storia/akademy2019-wiki-bof-monday-goals-session.png)
 
 ---
 
@@ -262,7 +262,7 @@ Paga tutto questo. Ma non decide cosa va nel codice
 ### Intanto, nel mondo open source
 Una comunità che lavora tutta da remoto ha bisogno di vedersi:
 - Akademy: la conferenza annuale (quella di Milano)
-- Sprint: pochi giorni, poche presone, un tema
+- Sprint: pochi giorni, poche persone, un tema
 --
 (le cene contano quanto i talk. Forse di più)
 ![Sprint di Plasma 2023, Augusta](img/kde/kde-sprint-plasma-2023-augsburg.jpg)
@@ -281,7 +281,7 @@ Non sapevo programmare bene ma ho fatto: grafiche, video, post, consigli, contat
 I progetti Open Source sono generalmente PIENI di programmatori
 Purtroppo, i programmatori sono spesso non un granché in: UI/UX, comunicazione e promozione, leadership, internazionalizzazione, ricerca e gestione fondi.
 --
-Qualsiasi skill abbiate, o siate disposti a svilupare, è super utile
+Qualsiasi skill abbiate, o siate disposti a sviluppare, è super utile
 
 ---
 
@@ -323,7 +323,7 @@ Note: «multiple millions» (Valve, nov 2023); IDC stima ~3,7–4 milioni (feb 2
 ### Intanto, nel mondo open source
 Perché un'azienda paga per software che chiunque può usare gratis?
 --
-Perché le serve, e farselo da sola costerebbe molto di piu
+Perché le serve, e farselo da sola costerebbe molto di più
 (Valve vende giochi, non desktop: le conviene che il desktop sia ottimo, anche se è di tutti)
 --
 E non fa beneficenza: paga direttamente chi ci lavora
@@ -345,7 +345,7 @@ E, al posto di seguire lezione, leggevo i PDF su come programmare in JavaScript 
 
 In compenso ho imparato:
 - a programmare nuove funzionalità
-- a fare video per spiegare le nuove funzionaltà
+- a fare video per spiegare le nuove funzionalità
 - a fare grafica e animazione per fare i video di lancio
 - a tenere talk all'Akademy per spiegare i progressi del Goal
 ![Akademy 2020](img/oggi/akademy-2020-consistency-status-update-thumbnail.jpg)
@@ -366,7 +366,7 @@ E, come risultato:
 
 Durante l'Akademy dopo che ho finito il mio Goal (a Salonicco, Grecia) sono stato circondato da tre dei migliori sviluppatori KDE tra un talk e l'altro
 --
-Gli ho chiesto cosa volesero
+Gli ho chiesto cosa volessero
 --
 Mi hanno detto "farmi un colloquio di lavoro". Avanzavano dei soldi di Valve
 --
@@ -384,7 +384,7 @@ Anche noi abbiamo una classifica da seguire: bugs.kde.org
 
 Benvenuti nel mondo del TRIAGING
 - Guardare la lista di bug
-- Uno per uno, controllare se riesci a riprodurlli
+- Uno per uno, controllare se riesci a riprodurli
 - Mancano informazioni? Sono ancora validi?
 - Sono nel progetto giusto? Vanno spostati?
 - Si possono risolvere facilmente? È qualcosa che vogliamo davvero fare?
@@ -405,7 +405,7 @@ Dovevo lavorare. (Non stavo lavorando). ((Non riuscivo proprio a lavorare)).
 ---
 
 Avevo avvertito che prima o poi mi sarei licenziato per tornare a fare video.
-Ma non ce la facevo più. Ho tirato fuori il cellulare e ho mandato un messaggio per licenziarmi istintivamnete.
+Ma non ce la facevo più. Ho tirato fuori il cellulare e ho mandato un messaggio per licenziarmi istintivamente.
 --
 E poi sono corso al McDonald's per festeggiare la decisione, mentre andavo nel panico.
 ![](img/meme/meme-mcdonalds-panico.jpg)
@@ -430,7 +430,7 @@ Circa due anni e mezzo fa, il burnout ha quasi consegnato l'intero internet a un
 (probabilmente un gruppo, forse finanziato da uno Stato)
 --
 - Hanno trovato un maintainer in burnout
-- Si sono offerti di aiutare e hanno dato una mano per anin
+- Si sono offerti di aiutare e hanno dato una mano per anni
 - Dopo essersi guadagnati la fiducia, hanno inserito una backdoor nascosta
 
 ---
@@ -442,7 +442,7 @@ Circa due anni e mezzo fa, il burnout ha quasi consegnato l'intero internet a un
 
 {.oss}
 ### Intanto, nel mondo open source
-Il mantainer in burnout non l'ha notato
+Il maintainer in burnout non l'ha notato
 La backdoor era già nelle versioni di test di Debian e Fedora, a pochi passi dalle release
 --
 All'ultimo secondo prima delle release, un dev Microsoft si è accorto per caso della backdoor
@@ -484,10 +484,10 @@ Se non volete programmare:
 
 <!-- NUOVO -->
 {.side}
-community.kkde.org/Get_Involved
+community.kde.org/Get_Involved
 nicco.love
-youttube.com/@niccoloveslinux
-fossstodon.org/@niccolove
+youtube.com/@niccoloveslinux
+fosstodon.org/@niccolove
 Grazie!
 ![Da dove iniziare](img/oggi/qr-get-involved.png)
 ![I miei contatti](img/oggi/qr-sito-nicco-love.png)
